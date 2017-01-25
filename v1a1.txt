@@ -1,0 +1,7 @@
+< WHY IS THI > 
+
+THI is because We need it. We do not have a systematic process for defining the spectrum of Human outcomes, where one end is absolute worse, and the other end is absolute best. I propose we do this by creating a theory of matter that will act as the rulebook for a new kind of board-game. If I succeed in initializing The Human Imperative, then I will have succeeded in crowdsourcing a physical theory of matter, one intended to make physics accessible to normal people. By crowdsourcing the development process of physical matter theory, we should expect by default, a theory that addresses normal lifestuff in the simplest, most natural of forms. 
+
+Why do I feel sad? Why do I feel love? Why does blue feel cooler than red? Why do I love flautas so much?
+
+Questions like these, we have no place for starting and explaining. I propose we style a theory of matter in the form of Munro’s Singular Thesis. I will use THI, the book, as a starting place. The book will provide a logic structure around which we can begin filling in a new Art, one in the form of a theory itself. If you discover something about THI that you think relates well to your life, then you can help out by making it your own! Add your flair. Add your thriving intelligence. Add your color. By doing so, you will be helping to fill in the Art. Of course we may find that parts of THI split in twos. That’s ok! We will account for multiple versions and histories by hosting all content on Github.
